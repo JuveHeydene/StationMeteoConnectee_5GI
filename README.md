@@ -3,7 +3,7 @@ Projet collaboratif de station météo connectée avec visualisation mobile
 
 ## Description
 
-> *La Station Météo Connectée est un projet personnel de surveillance des conditions météorologiques locales. Elle mesure en temps réel plusieurs paramètres environnementaux, comme la température, l'humidité, la pression atmosphérique et l'intensité lumineuse. Les données collectées sont accessibles via une application mobile, permettant de consulter l’historique, observer les variations climatiques locales et recevoir des notifications pour des conditions extrêmes. Cette station est idéale pour surveiller le climat dans un jardin, planifier des activités en extérieur ou ajuster des systèmes de chauffage et ventilation selon les données locales.*
+ **La Station Météo Connectée est un projet personnel de surveillance des conditions météorologiques locales. Elle mesure en temps réel plusieurs paramètres environnementaux, comme la température, l'humidité, la pression atmosphérique et l'intensité lumineuse. Les données collectées sont accessibles via une application mobile, permettant de consulter l’historique, observer les variations climatiques locales et recevoir des notifications pour des conditions extrêmes. Cette station est idéale pour surveiller le climat dans un jardin, planifier des activités en extérieur ou ajuster des systèmes de chauffage et ventilation selon les données locales.**
 
 ## Fonctionnalités
 
